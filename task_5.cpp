@@ -5,7 +5,7 @@ using namespace std;
 struct plane{
 		string name;
 		double m; // m = mass
-		double s; // s = square
+		double s; // s = wing area
 		double T; // T = thrust
 		double CD; // CD = drag coefficient
 		double CL; // CL = lift coefficient
